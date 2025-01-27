@@ -31,6 +31,8 @@ Part 2: Infrastructure Provisioning
 
 Solution Summary
 
+The api request/response and s3 bucket screenshots have been attached in the project source code in PDF = One2N-Assessment-Results.pdf
+
 1. HTTP Service (Python/Flask)
 
 The HTTP service is implemented in Python using the Flask web framework. 
