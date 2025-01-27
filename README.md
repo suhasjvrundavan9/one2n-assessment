@@ -33,6 +33,8 @@ Solution Summary
 
 The api request/response and s3 bucket screenshots have been attached in the project source code in PDF = One2N-Assessment-Results.pdf
 
+The video recording session explaining the same is available in this link = https://www.loom.com/share/3af6e00bead44cccab4f24201ef10feb?t=248&sid=5e11a5ec-f28a-4c67-a833-e56cd3491d40
+
 1. HTTP Service (Python/Flask)
 
 The HTTP service is implemented in Python using the Flask web framework. 
